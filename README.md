@@ -15,10 +15,6 @@
 ### 🌐 3D & Graphics Rendering
 <p align="left">
   <img src="https://skillicons.dev/icons?i=threejs&theme=dark" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/--18181B?style=for-the-badge&logo=webgl&logoColor=990000" height="48" title="WebGL" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/--18181B?style=for-the-badge&logo=chartdotjs&logoColor=FF6384" height="48" title="Chart.js" />
 </p>
 
 ---
@@ -26,12 +22,6 @@
 ### ⚙️ Backend, Auth & Realtime
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase,firebase&theme=dark" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/--18181B?style=for-the-badge&logo=pocketbase&logoColor=b8dbe4" height="48" title="PocketBase" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/--18181B?style=for-the-badge&logo=socketdotio&logoColor=white" height="48" title="Socket.io" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/--18181B?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="48" title="JWT" />
 </p>
 
 ---
@@ -46,12 +36,6 @@
 ### 🛠️ Build Tools & Utilities
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vite,webpack,babel,npm,yarn,postman,sentry&theme=dark" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/--18181B?style=for-the-badge&logo=nodemon&logoColor=76D04B" height="48" title="Nodemon" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/--18181B?style=for-the-badge&logo=eslint&logoColor=4B3263" height="48" title="ESLint" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/--18181B?style=for-the-badge&logo=ffmpeg&logoColor=007808" height="48" title="FFmpeg" />
 </p>
 
 ---
@@ -59,12 +43,6 @@
 ### 🎨 Design & Productivity
 <p align="left">
   <img src="https://skillicons.dev/icons?i=figma,ai,ps,notion&theme=dark" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/--18181B?style=for-the-badge&logo=canva&logoColor=00C4CC" height="48" title="Canva" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/--18181B?style=for-the-badge&logo=gimp&logoColor=E1D9D1" height="48" title="GIMP" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/--18181B?style=for-the-badge&logo=prezi&logoColor=3181FF" height="48" title="Prezi" />
 </p>
 
 ---
@@ -78,34 +56,26 @@
 
 ### 🎮 Gaming & Platforms
 <p align="left">
-  <img src="https://img.shields.io/badge/--18181B?style=for-the-badge&logo=steam&logoColor=white" height="48" title="Steam" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/--18181B?style=for-the-badge&logo=epicgames&logoColor=white" height="48" title="Epic Games" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/--18181B?style=for-the-badge&logo=riotgames&logoColor=EB0029" height="48" title="Riot Games" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/--18181B?style=for-the-badge&logo=battledotnet&logoColor=00AEFF" height="48" title="Battle.net" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/--18181B?style=for-the-badge&logo=playstation&logoColor=white" height="48" title="PlayStation" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/--18181B?style=for-the-badge&logo=xbox&logoColor=107C10" height="48" title="Xbox" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/--18181B?style=for-the-badge&logo=ea&logoColor=white" height="48" title="EA" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/--18181B?style=for-the-badge&logo=ubisoft&logoColor=white" height="48" title="Ubisoft" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/--18181B?style=for-the-badge&logo=itchdotio&logoColor=FA5C5C" height="48" title="Itch.io" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/--18181B?style=for-the-badge&logo=squareenix&logoColor=ED1C24" height="48" title="Square Enix" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/steam/steam-original.svg" width="48" height="48" title="Steam" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playstation/playstation-original.svg" width="48" height="48" title="PlayStation" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xbox/xbox-original.svg" width="48" height="48" title="Xbox" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/itchio/itchio-original.svg" width="48" height="48" title="Itch.io" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="48" height="48" title="Epic Games" />
 </p>
 
 ---
 
 ### 🖥️ Hardware & Rig
 <p align="left">
-  <img src="https://img.shields.io/badge/--18181B?style=for-the-badge&logo=nvidia&logoColor=76B900" height="48" title="NVIDIA" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/--18181B?style=for-the-badge&logo=amd&logoColor=ED1C24" height="48" title="AMD" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" width="48" height="48" style="display:none;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="48" height="48" style="display:none;" />
+  <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/AMD-ED1C24?style=for-the-badge&logo=amd&logoColor=white" height="40" />
 </p>
 
 # 📊 GitHub Stats:
